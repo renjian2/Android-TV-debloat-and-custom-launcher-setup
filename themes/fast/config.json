@@ -1,0 +1,12 @@
+{
+  "reduced_motion": true,
+  "focus_overshoot": false,
+  "advanced_effects": false,
+  "columns": 4,
+  "dock_apps": [
+    "org.smarttube.stable",
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "com.sonyliv"
+  ]
+}
